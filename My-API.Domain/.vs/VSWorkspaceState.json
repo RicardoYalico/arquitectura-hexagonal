@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\My_API.Application",
+    "\\My_API.Application\\Implementation",
+    "\\My_API.Application\\Implementation\\Services",
+    "\\My_API.Application\\Interfaces",
+    "\\My_API.Application\\Interfaces\\Services",
+    "\\My_API.Infrastructure.DataSource",
+    "\\My_API.Infrastructure.DataSource\\Context",
+    "\\My_API.Infrastructure.DataSource\\Implementation",
+    "\\My_API.Infrastructure.RestAPI"
+  ],
+  "SelectedNode": "\\My_API.Infrastructure.RestAPI\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}

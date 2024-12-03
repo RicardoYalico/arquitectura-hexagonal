@@ -1,0 +1,17 @@
+C:\Users\Ricardo\OneDrive\Escritorio\Projects\MyAPI\My-API.Domain\My_API.Application\bin\Debug\netcoreapp3.1\My_API.Domain.exe
+C:\Users\Ricardo\OneDrive\Escritorio\Projects\MyAPI\My-API.Domain\My_API.Application\bin\Debug\netcoreapp3.1\My_API.Application.exe
+C:\Users\Ricardo\OneDrive\Escritorio\Projects\MyAPI\My-API.Domain\My_API.Application\bin\Debug\netcoreapp3.1\My_API.Application.deps.json
+C:\Users\Ricardo\OneDrive\Escritorio\Projects\MyAPI\My-API.Domain\My_API.Application\bin\Debug\netcoreapp3.1\My_API.Application.runtimeconfig.json
+C:\Users\Ricardo\OneDrive\Escritorio\Projects\MyAPI\My-API.Domain\My_API.Application\bin\Debug\netcoreapp3.1\My_API.Application.runtimeconfig.dev.json
+C:\Users\Ricardo\OneDrive\Escritorio\Projects\MyAPI\My-API.Domain\My_API.Application\bin\Debug\netcoreapp3.1\My_API.Application.dll
+C:\Users\Ricardo\OneDrive\Escritorio\Projects\MyAPI\My-API.Domain\My_API.Application\bin\Debug\netcoreapp3.1\My_API.Application.pdb
+C:\Users\Ricardo\OneDrive\Escritorio\Projects\MyAPI\My-API.Domain\My_API.Application\bin\Debug\netcoreapp3.1\My_API.Domain.dll
+C:\Users\Ricardo\OneDrive\Escritorio\Projects\MyAPI\My-API.Domain\My_API.Application\bin\Debug\netcoreapp3.1\My_API.Domain.pdb
+C:\Users\Ricardo\OneDrive\Escritorio\Projects\MyAPI\My-API.Domain\My_API.Application\obj\Debug\netcoreapp3.1\My_API.Application.csproj.AssemblyReference.cache
+C:\Users\Ricardo\OneDrive\Escritorio\Projects\MyAPI\My-API.Domain\My_API.Application\obj\Debug\netcoreapp3.1\My_API.Application.AssemblyInfoInputs.cache
+C:\Users\Ricardo\OneDrive\Escritorio\Projects\MyAPI\My-API.Domain\My_API.Application\obj\Debug\netcoreapp3.1\My_API.Application.AssemblyInfo.cs
+C:\Users\Ricardo\OneDrive\Escritorio\Projects\MyAPI\My-API.Domain\My_API.Application\obj\Debug\netcoreapp3.1\My_API.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\OneDrive\Escritorio\Projects\MyAPI\My-API.Domain\My_API.Application\obj\Debug\netcoreapp3.1\My_API.Application.csproj.CopyComplete
+C:\Users\Ricardo\OneDrive\Escritorio\Projects\MyAPI\My-API.Domain\My_API.Application\obj\Debug\netcoreapp3.1\My_API.Application.dll
+C:\Users\Ricardo\OneDrive\Escritorio\Projects\MyAPI\My-API.Domain\My_API.Application\obj\Debug\netcoreapp3.1\My_API.Application.pdb
+C:\Users\Ricardo\OneDrive\Escritorio\Projects\MyAPI\My-API.Domain\My_API.Application\obj\Debug\netcoreapp3.1\My_API.Application.genruntimeconfig.cache

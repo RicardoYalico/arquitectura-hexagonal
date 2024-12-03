@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-My-API.Domain",
+      "appliesTo": "My-API.Domain/My-API.Domain.sln",
+      "type": "launch"
+    }
+  ]
+}

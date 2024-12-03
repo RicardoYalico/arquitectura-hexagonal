@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "My_API.Application": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
